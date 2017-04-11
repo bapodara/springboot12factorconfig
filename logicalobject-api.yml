@@ -42,3 +42,5 @@ spring:
   profiles: uat
   zipkin:
     base-url: http://zipkin:9411/
+ resturant:
+    name: test
