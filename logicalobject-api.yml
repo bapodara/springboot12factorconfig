@@ -18,6 +18,8 @@ microservice:
   auditing:
     services: true
 
+resturant:
+  name: test
 
 spring:
   zipkin:
@@ -42,5 +44,5 @@ spring:
   profiles: uat
   zipkin:
     base-url: http://zipkin:9411/
- resturant:
-    name: test
+
+  
